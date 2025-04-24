@@ -1,0 +1,28 @@
+=== Server started at Fri Jan 17 20:14:16 2025
+Player 1 connected from 127.0.0.1:58972
+Player 2 connected from 127.0.0.1:58978
+Both players connected. Starting the game.
+Received from Player 1: PLAY_CARD:1
+Player 1 played Fireball (Attack, Power: 7)
+Received from Player 2: PLAY_CARD:5
+Player 2 played Axe Chop (Attack, Power: 5)
+Received from Player 1: PLAY_CARD:1
+Player 1 played Fireball (Attack, Power: 6)
+Received from Player 2: PLAY_CARD:3
+Player 2 played Earthquake (Attack, Power: 6)
+Received from Player 1: PLAY_CARD:3
+Player 1 played Lightning Strike (Attack, Power: 6)
+Received from Player 2: PLAY_CARD:1
+Player 2 played Ice Blast (Attack, Power: 7)
+Received from Player 1: PLAY_CARD:5
+Player 1 played Sword Slash (Attack, Power: 5)
+Player 2 has been defeated!
+=== Server shutting down at Fri Jan 17 20:19:01 2025
+=== Server started at Fri Jan 17 21:03:05 2025
+Player 1 connected from 127.0.0.1:58960
+Player 2 connected from 127.0.0.1:37294
+Both players connected. Starting the game.
+Received from Player 1: PLAY_CARD:1
+Player 1 played Fireball (Attack, Power: 7)
+Player 2 disconnected. Ending game.
+=== Server shutting down at Fri Jan 17 21:03:22 2025
